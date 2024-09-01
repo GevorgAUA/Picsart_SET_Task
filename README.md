@@ -13,6 +13,7 @@ This project is a completed task automation framework built using Selenium WebDr
 * **Page Object Model:** The project uses a page object model to separate the test logic from the page elements.
 * **Reusable Methods:** The project includes reusable methods for common actions such as clicking, typing, and verifying.
 * **Uses Singletone and Thread-Safe Driver:** The project uses a singletone and thread-safe driver for the web driver. It creates and uses a single instance of a thread-safe driver throughout the project.
+* **Screenshots Upon Failure:** If a task fails a screenshot is done and stores in screenshots folder before closing the driver.
 
 **Project Structure:**
 
