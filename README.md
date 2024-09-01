@@ -32,7 +32,7 @@ This project is a completed task automation framework built using Selenium WebDr
 
 1. Clone the project repository.
 2. Install the required dependencies.
-3. Install a driver for your browser, in testBase class set property for the preffered browser, and put the path in the properties. 
+3. Install a driver for your browser, in TestBase class set property for the preffered browser, and put the path in the properties. 
 
 **How to Run:**
 1. Run the `testTask` located in `TestPicsart` located in the `src/test/java` folder.
