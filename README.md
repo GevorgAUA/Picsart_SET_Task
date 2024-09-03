@@ -4,7 +4,7 @@
 
 **Description:**
 
-This project is a completed task automation framework built using Selenium WebDriver and TestNG. It aims to provide a robust and maintainable solution for automating web-based applications.
+This project is a completed task which automates an e2e scenario using java, selenium webdriver and testNG. 
 
 **Features:**
 
